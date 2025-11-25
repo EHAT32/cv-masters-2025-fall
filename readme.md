@@ -5,3 +5,5 @@
 ## Работы
 
 * [ДЗ 1](https://github.com/EHAT32/cv-masters-2025-fall/blob/main/hw1.ipynb)
+
+* [ДЗ 2](https://github.com/EHAT32/cv-masters-2025-fall/blob/main/hw2.ipynb)
